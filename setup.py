@@ -4,7 +4,7 @@ setup(
     name="pycypher",
     version="0.0.1",
     packages=['pycypher'],
-    install_requires=['antlr4-python3-runtime'],
+    install_requires=['antlr4-python3-runtime==4.7.2'],
     # metadata for upload to PyPI
     author="Mushtaque Ahamed (alias Mizzlr)",
     author_email="mushtaque@codenation.co.in",
